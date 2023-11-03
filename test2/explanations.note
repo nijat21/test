@@ -1,0 +1,13 @@
+---------------------------------------------------------------------------------
+
+The 'mazeLayout' variable is a 2D array that functions as a map for the maze.
+Each element in the array represents a cell in the maze, and the numbers in each
+cell have specific meanings:
+
+- '0': Represents a cell a player can move through
+- '1': Represents a cell that blocks the player's movement, creating obstacles.
+- '2': Represents the cell of the player's starting position.
+- '3': Represents the cell of the player's position to reach in order to win.
+
+---------------------------------------------------------------------------------
+
